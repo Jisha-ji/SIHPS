@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:01.12.2024
+## Register Number:24900154
+## Name:Jisha Bossne SJ
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,83 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+A. User Profiles and Networking:
 
+ Alumni Profiles: 
+ Personalized alumni profiles including graduation year, major, current job, location, and achievements.
 
+ Networking and Connection:
+ Alumni can search for and connect with peers based on industry, graduation year, location, etc.
+
+ Mentorship Program: 
+ A dedicated feature for experienced alumni to offer mentorship to younger graduates or students entering the workforce.
+
+ Alumni Groups/Communities:
+ Alumni can join or create groups based on interest (e.g., industry-specific, regional, social causes) to encourage networking and knowledge sharing.
+
+B. Job & Career Services:
+
+ Job Board: 
+ A platform where alumni can post job openings, internships, and career opportunities for fellow alumni and students.
+
+ Resume/CV Resources: 
+ Alumni can share templates, tips, and personal experiences to help others with their professional growth.
+
+ Career Webinars and Events: 
+ Host live webinars, workshops, or virtual conferences on career development topics such as job searching, negotiation skills, and professional growth.
+
+C. Events and Reunions:
+
+ Event Calendar:
+ A centralized calendar for alumni events (virtual/in-person), including reunions, networking events, webinars, and alumni-led workshops.
+
+ RSVP and Registration:
+ Allow alumni to RSVP for events directly through the platform and keep track of upcoming events.
+
+ Event Streaming:
+ Live-stream key events (such as annual reunions, university updates, or career talks) so that even distant alumni can participate.
+
+D. Donations and Fundraising:
+
+ Fundraising Initiatives: 
+ A section dedicated to university fundraising campaigns, where alumni can contribute to scholarships, research programs, or infrastructure development.
+
+ Donation Tracking: 
+ An easy-to-use interface for alumni to make donations, track their contributions, and see how their funds are being utilized.
+
+E. Alumni News and Updates:
+
+ Newsfeed:
+ A personalized news feed featuring updates on university achievements, alumni success stories, faculty accomplishments, and university developments.
+
+ Newsletter Subscription:                           
+ Regular digital newsletters with highlights of alumni achievements, upcoming events, and university news.
+ 
 ## Proposed Solution / Architecture Diagram
+
+![image](https://github.com/user-attachments/assets/e5cdc43f-e027-4859-bdd8-b029544a5102)
 
 
 ## Use Cases
 
+![image](https://github.com/user-attachments/assets/3e250c05-3c26-4b0d-950f-eefd58ce2cbc)
 
 ## Technology Stack
 
+NodeJS/Django
+Flutter/React Native
+PostgresSQL/MongoDB
+Cloud based solutions like AWS and Azure
+Gpay,Paytm and other mobile payment apps
+Linkedin,Naukri
 
 ## Dependencies
 
+Web(ReactJS/Angular)
+Mobile(React Native/Flutter)
+UI/UX Design
+Backend Development
+Database Management
+Cloud Marketing
+Testing and QA 
+budget$50000-$150000
